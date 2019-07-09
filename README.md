@@ -11,3 +11,10 @@ I have been lucky enough to learn so much about analyzing and deriving insights 
 
 # Portfolio
 Here is where all my cool data visualizations will go!
+
+## Critique #1: Economist Article
+<iframe title="Social Media: Transformation in The Labour Party" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/a7XeD/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="263"></iframe>
+
+This redesigned visualization aims to provide more contexually aware information in a straightforward, digestible, manner. 
+
+Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis (Links to an external site.).
