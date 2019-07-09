@@ -13,7 +13,7 @@ I have been lucky enough to learn so much about analyzing and deriving insights 
 Here is where all my cool data visualizations will go!
 
 ## Critique #1
-<iframe title="Social Media: Transformation in The Labour Party" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/a7XeD/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="263"></iframe>
+<iframe title="Social Media: Transformation in The Labour Party" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/a7XeD/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="291"></iframe>
 
 This redesigned visualization aims to provide more contexually aware information in a straightforward, digestible manner. 
 
