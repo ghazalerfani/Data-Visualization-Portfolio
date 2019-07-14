@@ -18,3 +18,14 @@ Here is where all my cool data visualizations will go!
 This redesigned visualization aims to provide more contexually aware information in a straightforward, digestible manner. 
 
 Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis (Links to an external site.).
+
+## Critique #2
+<iframe title="'Big Three' Blamed for Most Attacks" aria-label="Interactive donut chart" id="datawrapper-chart-TRNNj" src="//datawrapper.dwcdn.net/TRNNj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+This redesigned visualization improves upon the original in the following ways:
+
+1. Introduces only 3 shark types to the audience, rather than an overwhelming 33. 
+2. Uses a donut chart to make shark type attacks easier to compare to one another and illustrate the dominance of the big three shark types. 
+3. Explicitly writes the number of attacks by each shark type to make it more tangible and digestible. 
+
+Source: https://abcnews.go.com/US/shark-attacks-told-graphs/story?id=31779076
