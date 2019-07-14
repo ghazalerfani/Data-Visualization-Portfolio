@@ -26,6 +26,8 @@ This redesigned visualization improves upon the original in the following ways:
 
 1. Introduces only 3 shark types to the audience, rather than an overwhelming 33. 
 2. Uses a donut chart to make shark type attacks easier to compare to one another and illustrate the dominance of the big three shark types. 
-3. Explicitly writes the number of attacks by each shark type to make it more tangible and digestible. 
+3. Separates Fatal and Nonfatal attacks into two parts to make each more digestible. 
+4. Explicitly writes the number of attacks by each shark type to make it more tangible. 
+5. Allows the user to interact with parts of the donut chart to encourage engagement. 
 
 Source: https://abcnews.go.com/US/shark-attacks-told-graphs/story?id=31779076
