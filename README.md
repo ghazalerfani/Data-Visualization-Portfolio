@@ -31,3 +31,12 @@ This redesigned visualization improves upon the original in the following ways:
 5. Allows the user to interact with parts of the donut chart to encourage engagement. 
 
 Source: https://abcnews.go.com/US/shark-attacks-told-graphs/story?id=31779076
+
+## Data Visualization #1: Office of Inspector General
+### 1. Times Journalist
+<div class="infogram-embed" data-id="337c48c9-3c60-4809-842e-adcd5d23a939" data-type="interactive" data-title="OIG: Journalist"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/337c48c9-3c60-4809-842e-adcd5d23a939" style="color:#989898!important;text-decoration:none!important;" target="_blank">OIG: Journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+### 2. Department of Homeland Security Analyst
+
+Source: https://www.oversight.gov/sites/default/files/oig-reports/archive/19253//OIG-19-51-Jul19_.pdf
+
