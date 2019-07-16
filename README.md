@@ -32,14 +32,6 @@ This redesigned visualization improves upon the original in the following ways:
 
 Source: https://abcnews.go.com/US/shark-attacks-told-graphs/story?id=31779076
 
-Audience.  Who's the data visualization intended for? How might this influence your choices of data visualizations for this report?  Make choices appropriate for your intended audience with this in mind.  
-
-Content.  Carefully craft content that accurately describes the data visualization.  Be careful to accurately represent the data in a way that communicates to your audience the correct information.  Avoid  using unfamiliar terms or overly wordy descriptions.  Try to talk through your data visualization to your audience, only using text where necessary. 
-
-Color. Think about your use of color, and how that impacts the interpretation of these data.  Choose colors that support the understanding of information and that don't otherwise muddle or distract from the message.  Using what you've learned about color so far, modify the color scale to use a custom set of colors you've selected.  Make sure your color selections work correctly and are complimentary to the data you're representing.  Remember you can use tools like Colorbrewer2.org (Links to an external site.) or color.adobe.com (Links to an external site.) to identify color scales that might work best for your needs. 
-
-Clearly identify the target audience for each, and explain why you made the choices you did in creating your data visualization, addressing the points outlined above.  Talk about how the visualizations and audiences compare / contrast to one another. Make sure you include all source information and explain the data well.  
-
 ## Data Visualization #1: Office of Inspector General
 ### 1. Time Magazine Journalist
 <script id="infogram_0_337c48c9-3c60-4809-842e-adcd5d23a939" title="OIG: Journalist" src="https://e.infogram.com/js/dist/embed.js?NHT" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/337c48c9-3c60-4809-842e-adcd5d23a939" style="color:#989898!important;text-decoration:none!important;" target="_blank">OIG: Journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
