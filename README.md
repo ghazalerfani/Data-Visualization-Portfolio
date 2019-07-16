@@ -32,12 +32,24 @@ This redesigned visualization improves upon the original in the following ways:
 
 Source: https://abcnews.go.com/US/shark-attacks-told-graphs/story?id=31779076
 
+Audience.  Who's the data visualization intended for? How might this influence your choices of data visualizations for this report?  Make choices appropriate for your intended audience with this in mind.  
+
+Content.  Carefully craft content that accurately describes the data visualization.  Be careful to accurately represent the data in a way that communicates to your audience the correct information.  Avoid  using unfamiliar terms or overly wordy descriptions.  Try to talk through your data visualization to your audience, only using text where necessary. 
+
+Color. Think about your use of color, and how that impacts the interpretation of these data.  Choose colors that support the understanding of information and that don't otherwise muddle or distract from the message.  Using what you've learned about color so far, modify the color scale to use a custom set of colors you've selected.  Make sure your color selections work correctly and are complimentary to the data you're representing.  Remember you can use tools like Colorbrewer2.org (Links to an external site.) or color.adobe.com (Links to an external site.) to identify color scales that might work best for your needs. 
+
+Clearly identify the target audience for each, and explain why you made the choices you did in creating your data visualization, addressing the points outlined above.  Talk about how the visualizations and audiences compare / contrast to one another. Make sure you include all source information and explain the data well.  
+
 ## Data Visualization #1: Office of Inspector General
-### 1. Times Journalist
+### 1. Time Magazine Journalist
 <script id="infogram_0_337c48c9-3c60-4809-842e-adcd5d23a939" title="OIG: Journalist" src="https://e.infogram.com/js/dist/embed.js?NHT" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/337c48c9-3c60-4809-842e-adcd5d23a939" style="color:#989898!important;text-decoration:none!important;" target="_blank">OIG: Journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-### 2. Department of Homeland Security Analyst
+This visualization would be published in Time Magazine. Given that Time Magazine is a weekly publication that targets people who are well-educated and in professional jobs with salaries above the median salary, it aims to provide a timely notification of the worsening conditions at Rio Grande Valley. It contextualizes the current conditions by showing the percent increase in apprehensions over one year and uses the color to red to illustrate the urgency of the situation. 
+
+### 2. Department of Homeland Security (DHS) Analyst
 <script id="infogram_0_7b7ea43c-cdec-415f-9b19-5c52800ac578" title="OIG: Analyst" src="https://e.infogram.com/js/dist/embed.js?liR" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/7b7ea43c-cdec-415f-9b19-5c52800ac578" style="color:#989898!important;text-decoration:none!important;" target="_blank">OIG: Analyst</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+This visualization would be used by high-level policy-makers at DHS and other government agencies to give them a snapshot of the current conditions at Rio Grande Valley and how they compare to standards that are currently in place to prevent such overcrowding. Given that such high-level policy-makers don't have much time, this visualization is concise and does not take much time to take in, but clearly shows that an alarming rate of detainees are being held over the permitted 72 hours. Once again, the use of the color red creates a sense of urgency. Seeing such a visualization would cause the policy-maker want to know more about current conditions and do what they can do bring the numbers down to the permitted level of 72 hours of detainment. 
 
 Source: https://www.oversight.gov/sites/default/files/oig-reports/archive/19253//OIG-19-51-Jul19_.pdf
 
