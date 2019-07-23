@@ -45,5 +45,4 @@ This visualization would be used by high-level policy-makers at DHS and other go
 
 Source: https://www.oversight.gov/sites/default/files/oig-reports/archive/19253//OIG-19-51-Jul19_.pdf
 
-## Data Visualization #2: Organization for Economic Co-operation and Development (OECD)
-[Linked to Page](/dataviz2.md)
+[Data Visualization #2](/dataviz2.md)
