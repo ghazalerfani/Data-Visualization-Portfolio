@@ -18,9 +18,9 @@ To measure user engagement and understandability, I will interview 5 people and 
 4. Is there anything else you wish to see along with these data visualizations?
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
 
-## Sketches
-![](/Sketch1.jpg)
-![](/Sketch2.jpg)
+## Initial Sketches
+![Initial Sketch 1](/Sketch1.jpg)
+![Initial Sketch 2](/Sketch2.jpg)
 
 ## Data Sources
 I will be using 9 sets of data from data.world that are sourced from the National Science Foundation. I plan on using these datasets in the order they are listed below to tell the story about the gender gap in engineering throughout different levels of education and employment. 
