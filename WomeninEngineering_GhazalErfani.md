@@ -19,9 +19,8 @@ To measure user engagement and understandability, I will interview 5 people and 
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
 
 ## Sketches
-they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your
-sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  
-Build in elements of your anticipated story structure for your project.
+![](Sketch1.jpg)
+![](Sketch2.jpg)
 
 ## Data Sources
 I will be using 9 sets of data from data.world that are sourced from the National Science Foundation. I plan on using these datasets in the order they are listed below to tell the story about the gender gap in engineering throughout different levels of education and employment. 
