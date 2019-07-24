@@ -4,11 +4,13 @@
 Women are largely underrespresented in the engineering fields. This problem comes to light in undergraduate education and continues to grow in graduate education and employment. Although the presence of women in these fields has grown over the past few years, gender equality is still a ways away. In raising awareness around this issue, I hope to inspire the audience to become strong advocates for women in science and engineering and perhaps take steps towards alleviating this issue. 
 
 ## Project Summary
-1. In undergraduate studies, female students are slightly less likely to enroll in engineering programs than male students. 
-2. In graduate studies, the gap between the number of male and female students widens. 
-3. From associates engineering degrees to doctoral engineering degrees, the number of females that graduate is much less than the number of males that do so. 
-4. This gender gap persists in engineering employment. 
-5. Although the data shows that this gender gap has decreased since 2004, it is anywhere but equal: there is much work to be done until gender equality is achieved in technical fields. 
+1. Introduce gender gap in engineering issue. 
+2. In undergraduate studies, female students are slightly less likely to enroll in engineering programs than male students. 
+3. In graduate studies, the gap between the number of male and female students widens. 
+4. From associates engineering degrees to doctoral engineering degrees, the number of females that graduate is much less than the number of males that do so. 
+5. This gender gap persists in engineering employment. 
+6. Although the data shows that this gender gap has decreased since 2004, it is anywhere but equal: there is much work to be done until gender equality is achieved in technical fields. 
+7. Provide actionable suggestions as to how the read may be able to alleviate this issue. 
 
 ## Success Metrics
 To measure user engagement and understandability, I will interview 5 people and ask them the following questions:
@@ -19,8 +21,8 @@ To measure user engagement and understandability, I will interview 5 people and 
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
 
 ## Initial Sketches
-![Initial Sketch 1](/Sketch1.jpg)
-![Initial Sketch 2](/Sketch2.jpg)
+![Initial Sketch 1](/Sketch1.JPG)
+![Initial Sketch 2](/Sketch2.JPG)
 
 ## Data Sources
 I will be using 9 sets of data from data.world that are sourced from the National Science Foundation. I plan on using these datasets in the order they are listed below to tell the story about the gender gap in engineering throughout different levels of education and employment. 
