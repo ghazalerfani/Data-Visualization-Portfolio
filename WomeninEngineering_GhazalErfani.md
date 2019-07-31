@@ -41,7 +41,7 @@ I plan on completing my final project using Shorthand. I will talk through the g
 
 ## User Research Protocol
 ### Target Audience
-The target audience is male employees of engineering and technology companies who have more than 3 years of experience. This audience has experience in the relevant industry and has enough years of experience to feel accountable for affecting change in the industry. Additionally, the target audience is scope to males (rather than females) because, firstly, there are more males than females in this industry and, secondly, males tend to be less aware of this gender gap than females are. 
+The target audience is male employees of engineering and technology companies who have more than 3 years of experience. This audience has experience in the relevant industry and has enough years of experience to feel accountable for affecting change in the industry. Additionally, the target audience is scoped to males (rather than females) because, firstly, there are more males than females in this industry and, secondly, males tend to be less aware of this gender gap than females. 
 
 ### Approach to Identifying Representative Interviewees
 To identify representative interviewees, I selected males who have more than 3 years of experience in engineering and technology and are currently working in this industry. 
