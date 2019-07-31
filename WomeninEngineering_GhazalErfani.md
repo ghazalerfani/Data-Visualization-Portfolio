@@ -55,7 +55,7 @@ To identify representative interviewees, I selected males who have more than 3 y
 
 ### Interview Findings
 
-#### Interviewee A 
+#### Interview A 
 1. What are key take-aways from these data visualizations?
   - women are underrepresented in engineering throughout the entire process of becoming an engineer. 
 2. What do you like most about these data visualizations?
@@ -67,7 +67,7 @@ To identify representative interviewees, I selected males who have more than 3 y
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
   - I didn't realize that the bottom part was a call to action. It seems more like an ending that I don't need to pay           attention to. Perhaps a section title would help here as well. 
   
-#### Interviewee B
+#### Interview B
 1. What are key take-aways from these data visualizations?
   - I'm surprised: I thought there were more women in engineering. 
 2. What do you like most about these data visualizations?
@@ -79,7 +79,7 @@ To identify representative interviewees, I selected males who have more than 3 y
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
   - I feel like actions are targeted towards women in the industry, not towards me. 
   
-#### Interviewee C
+#### Interview C
 1. What are key take-aways from these data visualizations?
   - My overall impression is that there is a significant gap/disconnect between the number of women in engineering and the       number of men in engingeering (both in education and in professional work place). 
 2. What do you like most about these data visualizations?
@@ -100,8 +100,9 @@ To identify representative interviewees, I selected males who have more than 3 y
 
 ### Implemented Changes to Address the Identified Issues
 1. Added titles to each section to make flow clear. Make sure the title for actions at the bottom makes clear that they apply to anyone working in engineering and technology (not just females).
-2. Added Growth Rate to 'Engineering Undergraduate Enrollment" and "Higher Education Engineering Degrees Awarded" to make the growth rate over time more clear. 
-3. Added some statistics in description around percentage of female who work in engineering/technology industry compared to all females in the workforce and all females in STEM to give more context around women in the workforce before diving into specifics around engineering. 
-4. Added links to 'Serve' and 'Share' actions towards bottom of page to make these more actionable. 
+2. Added total value to first visualization. 
+3. Added Growth Rate to 'Engineering Undergraduate Enrollment" and "Higher Education Engineering Degrees Awarded" to make the growth rate over time more clear. 
+4. Added some statistics in description around percentage of all female in the workforce to give more context around women in  the engineering workforce compared to all women in the workforce. 
+5. Updated actions towards bottom of page to make these more understandable and actionable and ensure that links are clear. 
 
 ### [Latest Draft of Final Project](https://preview.shorthand.com/FLPpFqqoAyeGy3xj)
