@@ -54,6 +54,7 @@ To identify representative interviewees, I selected males who have more than 3 y
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
 
 ### Interview Findings
+
 #### Interviewee A 
 1. What are key take-aways from these data visualizations?
   - women are underrepresented in engineering throughout the entire process of becoming an engineer. 
@@ -76,6 +77,7 @@ To identify representative interviewees, I selected males who have more than 3 y
   - I would like to see what kinds of fields females are going into if they are not going into engineering. For example, what   is most common major that females are enrolled in? 
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
   - I feel like actions are targeted towards women in the industry, not towards me. 
+  
 #### Interviewee C
 1. What are key take-aways from these data visualizations?
   - My overall impression is that there is a significant gap/disconnect between the number of women in engineering and the       number of men in engingeering (both in education and in professional work place). 
