@@ -52,6 +52,7 @@ To identify representative interviewees, I selected males who have more than 3 y
 3. What do you find confusing about these data visualizations? How would you change those to improve them?
 4. Is there anything else you wish to see along with these data visualizations?
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
+
 ### Interview Findings
 #### Interviewee A 
 1. What are key take-aways from these data visualizations?
@@ -100,4 +101,4 @@ To identify representative interviewees, I selected males who have more than 3 y
 3. Added some statistics in description around percentage of female who work in engineering/technology industry compared to all females in the workforce and all females in STEM to give more context around women in the workforce before diving into specifics around engineering. 
 4. Added links to 'Serve' and 'Share' actions towards bottom of page to make these more actionable. 
 
-### [Draft of Data Visualizations](https://preview.shorthand.com/FLPpFqqoAyeGy3xj)
+### [Latest Draft of Data Visualizations](https://preview.shorthand.com/FLPpFqqoAyeGy3xj)
