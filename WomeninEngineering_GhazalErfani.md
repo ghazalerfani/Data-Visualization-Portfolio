@@ -66,6 +66,7 @@ To identify representative interviewees, I selected males who have more than 3 y
   - I would like to see more structure to the page. Perhaps a key takeaway for each graph or a section title would help. 
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
   - I didn't realize that the bottom part was a call to action. It seems more like an ending that I don't need to pay           attention to. Perhaps a section title would help here as well. 
+  
 #### Interviewee B
 1. What are key take-aways from these data visualizations?
   - I'm surprised: I thought there were more women in engineering. 
