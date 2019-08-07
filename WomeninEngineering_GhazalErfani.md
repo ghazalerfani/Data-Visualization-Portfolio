@@ -7,10 +7,9 @@ Women are largely underrespresented in the engineering fields. This problem come
 1. Introduce gender gap in engineering issue. 
 2. In undergraduate studies, female students are slightly less likely to enroll in engineering programs than male students. 
 3. In graduate studies, the gap between the number of male and female students widens. 
-4. From associates engineering degrees to doctoral engineering degrees, the number of females that graduate is much less than the number of males that do so. 
-5. This gender gap persists in engineering employment. 
-6. Although the data shows that this gender gap has decreased since 2004, it is anywhere but equal: there is much work to be done until gender equality is achieved in technical fields. 
-7. Provide actionable suggestions as to how the read may be able to alleviate this issue. 
+4. From bachelor engineering degrees to doctoral engineering degrees, the number of females that graduate is much less than the number of males that do so. 
+5. This gender gap persists in engineering employment. There is much work to be done until gender equality is achieved in the professional engineering environment. 
+6. Provide actionable suggestions as to how the read may be able to alleviate this issue. 
 
 ## Success Metrics
 To measure user engagement and understandability, I will interview 3 people and ask them the following questions:
@@ -41,7 +40,7 @@ I plan on completing my final project using Shorthand. I will talk through the g
 
 ## User Research Protocol
 ### Target Audience
-The target audience is male employees of engineering and technology companies who have more than 3 years of experience. This audience has experience in the relevant industry and has enough years of experience to feel accountable for affecting change in the industry. Additionally, the target audience is scoped to males (rather than females) because, firstly, there are more males than females in this industry and, secondly, males tend to be less aware of this gender gap than females. 
+The target audience is employees of engineering and technology companies who have more than 3 years of experience. This audience has experience in the relevant industry and has enough years of experience to feel accountable for affecting change in the industry.
 
 ### Approach to Identifying Representative Interviewees
 To identify representative interviewees, I selected males who have more than 3 years of experience in engineering and technology and are currently working in this industry. 
@@ -77,7 +76,8 @@ To identify representative interviewees, I selected males who have more than 3 y
 4. Is there anything else you wish to see along with these data visualizations?
   - I would like to see what kinds of fields females are going into if they are not going into engineering. For example, what   is most common major that females are enrolled in? 
 5. Do you feel more inclined to take steps to alleviate gender gaps in engineering than you did prior to seeing this visualizations?
-  - I feel like actions are targeted towards women in the industry, not towards me. 
+  - I feel like actions are 
+  towards women in the industry, not towards me. 
   
 #### Interview C
 1. What are key take-aways from these data visualizations?
@@ -103,6 +103,19 @@ To identify representative interviewees, I selected males who have more than 3 y
 2. Added total value to first visualization. 
 3. Added Growth Rate to 'Engineering Undergraduate Enrollment" and "Higher Education Engineering Degrees Awarded" to make the growth rate over time more clear. 
 4. Added some statistics in description around percentage of all female in the workforce to give more context around women in  the engineering workforce compared to all women in the workforce. 
-5. Updated actions towards bottom of page to make these more understandable and actionable and ensure that links are clear. 
+5. Updated actions towards bottom of page to make these more understandable and actionable and ensure that links are clear.
 
-### [Latest Draft of Final Project](https://preview.shorthand.com/FLPpFqqoAyeGy3xj)
+### Final Data Story
+Creating this data story involved a series of learnings. Firstly, after some reflection and research, I chose to focus on employees in the engineering industry because they would be likely to take the actionable steps and have more impact than others would. Given that the target audience would be a technical, evidence-based audience, I chose to include many statistic my text as well: they seemed to respond positively tho this. Secondly, the more challenging and important learning throughout this process has been filtering data and details to make this an easy-to-understand, enjoyable story while inspiring action. Throughout my research, I found that different people have different preferences and while implementing user feedback is important, I had to make sure to not let these small changes did not affect the seamlessness or overall continuity and structure of my story. This involved several iterations in both data visualization, text provided, and even images and headings. 
+
+### References
+1. https://smallbiztrends.com/2018/03/women-in-technology-statistics.html
+2. https://www.ieee.org/membership/women-in-engineering.html
+3. http://news.mit.edu/2016/why-do-women-leave-engineering-0615
+4. https://alltogether.swe.org/2018/09/swe-research-update-women-in-engineering-by-the-numbers/
+5. https://www.usnews.com/news/stem-solutions/articles/2016-10-17/how-to-involve-more-women-and-girls-in-engineering
+6. http://news.mit.edu/2016/why-do-women-leave-engineering-0615
+7. https://fairygodboss.com/articles/women-in-tech-facts-figures-and-percentages
+
+
+### [Latest Draft of Final Project](https://carnegiemellon.shorthandstories.com/womeninengineeringbyghazalerfani/index.html)
