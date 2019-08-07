@@ -118,4 +118,4 @@ Creating this data story involved a series of learnings. Firstly, after some ref
 7. https://fairygodboss.com/articles/women-in-tech-facts-figures-and-percentages
 
 
-### [Final Project: Women in Engineering](https://carnegiemellon.shorthandstories.com/womeninengineeringbyghazalerfani/index.html)
+### [Published Version: Women in Engineering](https://carnegiemellon.shorthandstories.com/womeninengineeringbyghazalerfani/index.html)
